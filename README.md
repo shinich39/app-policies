@@ -1,13 +1,15 @@
-# Dev1ce Policies
+# mobile-app-policies
 
-This repository contains the public policies and legal documents for **Dev1ce**.
+This repository hosts public policy and legal documents for mobile applications.
 
-## Documents
+## Purpose
 
-* [Privacy Policy](./privacy-policy.md)
+These documents are intended to be published or linked from app store listings and related app surfaces.
 
-## About
+## Update Policy
 
-These documents apply to the Dev1ce application and may be updated when the application's features, services, or legal requirements change.
+Documents in this repository may be updated when an application's features, services, or legal requirements change.
 
-For questions regarding these policies, please contact the developer using the contact information provided in the relevant document.
+## Contact
+
+For questions about a specific policy, please use the contact information included in that document.
