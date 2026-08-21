@@ -1,6 +1,6 @@
-# mobile-app-policies
+# app-policies
 
-This repository hosts public policy and legal documents for mobile applications.
+This repository hosts public policy and legal documents for applications.
 
 ## Purpose
 

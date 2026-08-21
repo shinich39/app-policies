@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Dev1ce** does not collect, store, transmit, or share any user information.
+Dev1ce does not collect, store, transmit, or share any user information.
 
 ## Information Collection
 
@@ -8,15 +8,15 @@ Dev1ce does not collect any personal or non-personal information.
 
 This includes, but is not limited to:
 
-* Personal information
-* Device information
-* Usage data
-* Location information
-* Contacts
-* Photos or media
-* Advertising identifiers
-* Analytics data
-* Diagnostic data
+- Personal information
+- Device information
+- Usage data
+- Location information
+- Contacts
+- Photos or media
+- Advertising identifiers
+- Analytics data
+- Diagnostic data
 
 ## Data Storage
 
@@ -38,8 +38,8 @@ If the application's data practices change in the future, this Privacy Policy wi
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Email:** shinich39@gmail.com
+Email: shinich39@gmail.com
 
 ## Effective Date
 
-Effective: **August 18, 2026**
+Effective: August 18, 2026
